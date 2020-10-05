@@ -1,4 +1,4 @@
-# junit-tests
+# software-evolution-tests
 This project is intended to teach beginners working with unit tests using , junit and (power)mockito.
 
 ## Project Structure
